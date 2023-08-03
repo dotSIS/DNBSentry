@@ -49,7 +49,7 @@ class DNBSentry(Client):
         
         message = message_object.text
 
-        # if message came from 3r5
+        # if message came from gc
         if thread_id == tid:
             
             # if listen mode is on
