@@ -15,7 +15,7 @@ logging.disable(logging.INFO)
 # user and bot ids
 aid = "000000000000000"# Bot FB ID HERE
 zaid = "000000000000000"# Your FB ID HERE
-admin_list = [zaid, aid]# Your FB ID AND Bot FB ID
+admin_list = [zaid, aid]
 
 # room threads
 thread_id = "3221645394585786"# Messenger GC FB ID HERE
